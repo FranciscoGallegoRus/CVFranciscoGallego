@@ -2199,7 +2199,7 @@ select,
 textarea {
   font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif; }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, h7 {
   font-weight: 400; }
 
 small {
@@ -2247,6 +2247,10 @@ h6, .h6 {
   font-size: 1em;
   font-weight: 700;
   text-transform: uppercase; }
+
+  h7, .h7 {
+    font-size: 0.8em;
+    line-height: 1em; }
 
 p {
   line-height: 1.61em; }
@@ -5308,4 +5312,3 @@ a.credit {
 p.chiquitito{
   font-size: 7px;
 }
-
